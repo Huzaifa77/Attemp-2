@@ -11,7 +11,8 @@ loadEventListners();
 //function loadEventListner
 function loadEventListners(){
 
-    //DOM load event
+    //DOM load even
+//t
     document.addEventListener('DOMContentLoaded',getTasks);
 
     //add task event
